@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/IH/31D1PB8IF2W3OB62LMMPS7.uasset"
+				"D:/Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/IH/31D1PB8IF2W3OB62LMMPS7.uasset",
+				"D:/Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/MainMap.umap",
+				"D:/Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/_GENERATED/Zlata/CubeGridToolOutput_1EFB3939.uasset",
+				"D:/Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/Megascans/Surfaces/Mossy_Stone_Floor_veilfjxn/MI_Mossy_Stone_Floor_veilfjxn_2K.uasset",
+				"D:/Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/Material_Water.uasset",
+				"D:/Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/LumenMaterial.uasset",
+				"D:/Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/Megascans/Surfaces/Mossy_Stone_Floor_veilfjxn/T_Mossy_Stone_Floor_veilfjxn_2K_Mat.uasset",
+				"D:/Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/Fountain.uasset"
 			]
 		}
 	]
