@@ -1304,3 +1304,403 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.15-13.18.57:297][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 1.17 sec)
 [2023.08.15-13.18.57:301][960]AssetCheck: New page: Asset Save: Stairs_0537BEB4
 [2023.08.15-13.18.57:301][960]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_GENERATED/Zlata/Stairs_0537BEB4.Stairs_0537BEB4
+[2023.08.15-13.20.10:618][ 57]LogViewport: Scene viewport resized to 796x530, mode Windowed.
+[2023.08.15-13.20.27:789][960]LogShaderCompilers: Display: ================================================
+[2023.08.15-13.20.27:789][960]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.15-13.20.27:789][960]LogShaderCompilers: Display: Total job queries 176, among them cache hits 34 (19.32%)
+[2023.08.15-13.20.27:789][960]LogShaderCompilers: Display: Tracking 140 distinct input hashes that result in 114 distinct outputs (81.43%)
+[2023.08.15-13.20.27:789][960]LogShaderCompilers: Display: RAM used: 1.16 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.14%
+[2023.08.15-13.20.27:789][960]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.15-13.20.27:789][960]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.08.15-13.20.27:789][960]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100.00%)
+[2023.08.15-13.20.27:789][960]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.03 s
+[2023.08.15-13.20.27:789][960]LogShaderCompilers: Display: Job execution time: average 1.85 s, max 3.06 s
+[2023.08.15-13.20.27:789][960]LogShaderCompilers: Display: Job life time (pending + execution): average 1.88 s, max 3.09
+[2023.08.15-13.20.27:789][960]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.10 s
+[2023.08.15-13.20.27:789][960]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.15-13.20.27:789][960]LogShaderCompilers: Display: Average processing rate: 0.65 jobs/sec
+[2023.08.15-13.20.27:789][960]LogShaderCompilers: Display: Total thread time: 3.21 s
+[2023.08.15-13.20.27:789][960]LogShaderCompilers: Display: Total thread preprocess time: 0.04 s
+[2023.08.15-13.20.27:789][960]LogShaderCompilers: Display: Percentage time preprocessing: 1.26%
+[2023.08.15-13.20.27:789][960]LogShaderCompilers: Display: Effective parallelization: 1.04 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.15-13.20.27:789][960]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.08.15-13.20.27:789][960]LogShaderCompilers: Display:                                               FNiagaraShader (compiled    2 times, average 1.61 sec, max 2.84 sec, min 0.37 sec)
+[2023.08.15-13.20.27:789][960]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.08.15-13.20.27:789][960]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled    2 times, average 1.61 sec, max 2.84 sec, min 0.37 sec)
+[2023.08.15-13.20.27:789][960]LogShaderCompilers: Display: ================================================
+[2023.08.15-13.20.58:598][606]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.15-13.20.58:684][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.15-13.21.00:446][606]LogMeshUtilities: Finished distance field build in 1.8s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 63% occupied, 182 triangles, CubeGridToolOutput_1EFB3939
+[2023.08.15-13.21.02:187][606]LogMeshUtilities: Finished distance field build in 1.7s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 63% occupied, 182 triangles, CubeGridToolOutput_1EFB3939
+[2023.08.15-13.21.02:187][606]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_1EFB3939...
+[2023.08.15-13.21.02:194][606]LogStaticMesh: Built static mesh [0.01s] /Game/_GENERATED/Zlata/CubeGridToolOutput_1EFB3939.CubeGridToolOutput_1EFB3939
+[2023.08.15-13.21.02:215][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.08.15-13.21.02:226][606]LogSavePackage: Moving output files for package: /Game/MainMap
+[2023.08.15-13.21.02:226][606]LogSavePackage: Moving '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Saved/MainMap585BE2A04643507197DCFFBC77F479C1.tmp' to '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/MainMap.umap'
+[2023.08.15-13.21.02:246][606]LogFileHelpers: Saving map 'MainMap' took 3.563
+[2023.08.15-13.21.02:253][606]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.65 sec (total: 4.83 sec)
+[2023.08.15-13.21.02:258][606]AssetCheck: New page: Asset Save: MainMap
+[2023.08.15-13.21.02:258][606]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainMap.MainMap
+[2023.08.15-13.21.04:161][637]LogMeshUtilities: Finished distance field build in 2.0s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 52% occupied, 248 triangles, CubeGridToolOutput_1EFB3939
+[2023.08.15-13.22.17:864][876]LogEditorViewport: Clicking Background
+[2023.08.15-13.22.34:093][700]Cmd: TRANSACTION UNDO
+[2023.08.15-13.22.34:094][700]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.22.34:437][705]Cmd: TRANSACTION UNDO
+[2023.08.15-13.22.34:437][705]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.22.34:703][713]Cmd: TRANSACTION UNDO
+[2023.08.15-13.22.34:703][713]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.22.34:965][727]Cmd: TRANSACTION UNDO
+[2023.08.15-13.22.34:966][727]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.22.35:268][743]Cmd: TRANSACTION UNDO
+[2023.08.15-13.22.35:268][743]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.22.35:800][771]Cmd: TRANSACTION UNDO
+[2023.08.15-13.22.35:800][771]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.22.48:596][454]Cmd: TRANSACTION UNDO
+[2023.08.15-13.22.48:596][454]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.22.49:074][461]Cmd: TRANSACTION UNDO
+[2023.08.15-13.22.49:074][461]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.22.49:243][468]Cmd: TRANSACTION UNDO
+[2023.08.15-13.22.49:243][468]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.22.49:587][486]Cmd: TRANSACTION UNDO
+[2023.08.15-13.22.49:587][486]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.22.50:003][508]Cmd: TRANSACTION UNDO
+[2023.08.15-13.22.50:003][508]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.22.53:824][706]Cmd: TRANSACTION UNDO
+[2023.08.15-13.22.53:824][706]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.23.09:708][556]Cmd: TRANSACTION UNDO
+[2023.08.15-13.23.09:709][556]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.23.36:175][984]Cmd: TRANSACTION UNDO
+[2023.08.15-13.23.36:175][984]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.23.36:591][990]Cmd: TRANSACTION UNDO
+[2023.08.15-13.23.36:591][990]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.23.36:830][998]Cmd: TRANSACTION UNDO
+[2023.08.15-13.23.36:830][998]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.23.37:108][ 11]Cmd: TRANSACTION UNDO
+[2023.08.15-13.23.37:108][ 11]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.23.37:444][ 26]Cmd: TRANSACTION UNDO
+[2023.08.15-13.23.37:444][ 26]LogEditorTransaction: Undo Cube Grid Selection Change
+[2023.08.15-13.23.37:789][ 42]Cmd: TRANSACTION UNDO
+[2023.08.15-13.23.37:789][ 42]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.23.38:105][ 56]Cmd: TRANSACTION UNDO
+[2023.08.15-13.23.38:105][ 56]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.23.38:391][ 70]Cmd: TRANSACTION UNDO
+[2023.08.15-13.23.38:391][ 70]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.23.38:686][ 84]Cmd: TRANSACTION UNDO
+[2023.08.15-13.23.38:686][ 84]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.23.39:019][100]Cmd: TRANSACTION UNDO
+[2023.08.15-13.23.39:019][100]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.23.39:330][115]Cmd: TRANSACTION UNDO
+[2023.08.15-13.23.39:330][115]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.23.39:647][130]Cmd: TRANSACTION UNDO
+[2023.08.15-13.23.39:647][130]LogEditorTransaction: Undo Cube Grid Selection Change
+[2023.08.15-13.23.40:188][158]Cmd: TRANSACTION UNDO
+[2023.08.15-13.23.40:189][158]LogEditorTransaction: Undo Cube Grid Selection Change
+[2023.08.15-13.23.40:959][179]Cmd: TRANSACTION UNDO
+[2023.08.15-13.23.40:959][179]LogEditorTransaction: Undo Cube Grid Selection Change
+[2023.08.15-13.23.41:394][200]Cmd: TRANSACTION UNDO
+[2023.08.15-13.23.41:394][200]LogEditorTransaction: Undo Cube Grid Selection Change
+[2023.08.15-13.23.42:023][232]Cmd: TRANSACTION UNDO
+[2023.08.15-13.23.42:024][232]LogEditorTransaction: Undo Cube Grid Selection Change
+[2023.08.15-13.23.42:373][249]Cmd: TRANSACTION UNDO
+[2023.08.15-13.23.42:373][249]LogEditorTransaction: Undo Cube Grid Selection Change
+[2023.08.15-13.23.42:683][264]Cmd: TRANSACTION UNDO
+[2023.08.15-13.23.42:683][264]LogEditorTransaction: Undo Cube Grid Selection Change
+[2023.08.15-13.23.43:057][282]Cmd: TRANSACTION UNDO
+[2023.08.15-13.23.43:057][282]LogEditorTransaction: Undo Cube Grid Selection Change
+[2023.08.15-13.23.43:411][300]Cmd: TRANSACTION UNDO
+[2023.08.15-13.23.43:412][300]LogEditorTransaction: Undo Cube Grid Selection Change
+[2023.08.15-13.23.44:003][329]Cmd: TRANSACTION UNDO
+[2023.08.15-13.23.44:003][329]LogEditorTransaction: Undo Activate Tool
+[2023.08.15-13.23.45:107][368]Cmd: TRANSACTION UNDO
+[2023.08.15-13.23.45:107][368]LogEditorTransaction: Undo Clicking Background
+[2023.08.15-13.24.12:920][677]LogShaderCompilers: Display: ================================================
+[2023.08.15-13.24.12:920][677]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.15-13.24.12:920][677]LogShaderCompilers: Display: Total job queries 188, among them cache hits 40 (21.28%)
+[2023.08.15-13.24.12:920][677]LogShaderCompilers: Display: Tracking 146 distinct input hashes that result in 120 distinct outputs (82.19%)
+[2023.08.15-13.24.12:920][677]LogShaderCompilers: Display: RAM used: 1.21 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.15%
+[2023.08.15-13.24.12:920][677]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.15-13.24.12:920][677]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.08.15-13.24.12:920][677]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100.00%)
+[2023.08.15-13.24.12:920][677]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.03 s
+[2023.08.15-13.24.12:920][677]LogShaderCompilers: Display: Job execution time: average 1.85 s, max 3.06 s
+[2023.08.15-13.24.12:920][677]LogShaderCompilers: Display: Job life time (pending + execution): average 1.88 s, max 3.09
+[2023.08.15-13.24.12:920][677]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.10 s
+[2023.08.15-13.24.12:920][677]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.15-13.24.12:920][677]LogShaderCompilers: Display: Average processing rate: 0.65 jobs/sec
+[2023.08.15-13.24.12:920][677]LogShaderCompilers: Display: Total thread time: 3.21 s
+[2023.08.15-13.24.12:920][677]LogShaderCompilers: Display: Total thread preprocess time: 0.04 s
+[2023.08.15-13.24.12:920][677]LogShaderCompilers: Display: Percentage time preprocessing: 1.26%
+[2023.08.15-13.24.12:920][677]LogShaderCompilers: Display: Effective parallelization: 1.04 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.15-13.24.12:920][677]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.08.15-13.24.12:921][677]LogShaderCompilers: Display:                                               FNiagaraShader (compiled    2 times, average 1.61 sec, max 2.84 sec, min 0.37 sec)
+[2023.08.15-13.24.12:921][677]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.08.15-13.24.12:921][677]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled    2 times, average 1.61 sec, max 2.84 sec, min 0.37 sec)
+[2023.08.15-13.24.12:921][677]LogShaderCompilers: Display: ================================================
+[2023.08.15-13.24.35:730][808]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_1EFB3939...
+[2023.08.15-13.24.35:739][808]LogStaticMesh: Built static mesh [0.01s] /Game/_GENERATED/Zlata/CubeGridToolOutput_1EFB3939.CubeGridToolOutput_1EFB3939
+[2023.08.15-13.24.37:839][878]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 63% occupied, 179 triangles, CubeGridToolOutput_1EFB3939
+[2023.08.15-13.24.38:381][904]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.15-13.24.38:447][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.15-13.24.38:451][904]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_1EFB3939...
+[2023.08.15-13.24.38:455][904]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/Zlata/CubeGridToolOutput_1EFB3939.CubeGridToolOutput_1EFB3939
+[2023.08.15-13.24.38:476][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.08.15-13.24.38:486][904]LogSavePackage: Moving output files for package: /Game/MainMap
+[2023.08.15-13.24.38:486][904]LogSavePackage: Moving '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Saved/MainMap9E1596564E2FD568071077A5F25131C8.tmp' to '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/MainMap.umap'
+[2023.08.15-13.24.38:505][904]LogFileHelpers: Saving map 'MainMap' took 0.059
+[2023.08.15-13.24.38:511][904]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 4.96 sec)
+[2023.08.15-13.24.38:517][904]AssetCheck: New page: Asset Save: MainMap
+[2023.08.15-13.24.38:517][904]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainMap.MainMap
+[2023.08.15-13.24.40:546][960]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 63% occupied, 179 triangles, CubeGridToolOutput_1EFB3939
+[2023.08.15-13.25.08:607][313]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_1EFB3939...
+[2023.08.15-13.25.08:618][313]LogStaticMesh: Built static mesh [0.01s] /Game/_GENERATED/Zlata/CubeGridToolOutput_1EFB3939.CubeGridToolOutput_1EFB3939
+[2023.08.15-13.25.10:732][381]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 63% occupied, 179 triangles, CubeGridToolOutput_1EFB3939
+[2023.08.15-13.25.20:940][867]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_1EFB3939...
+[2023.08.15-13.25.20:957][867]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/_GENERATED/Zlata/CubeGridToolOutput_1EFB3939) ...
+[2023.08.15-13.25.20:959][867]LogStaticMesh: Built static mesh [0.02s] /Game/_GENERATED/Zlata/CubeGridToolOutput_1EFB3939.CubeGridToolOutput_1EFB3939
+[2023.08.15-13.25.23:084][939]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 63% occupied, 179 triangles, CubeGridToolOutput_1EFB3939
+[2023.08.15-13.25.38:529][700]Cmd: TRANSACTION UNDO
+[2023.08.15-13.25.38:529][700]LogEditorTransaction: Undo PolyMesh Edit
+[2023.08.15-13.25.40:206][761]Cmd: TRANSACTION UNDO
+[2023.08.15-13.25.40:206][761]LogEditorTransaction: Undo PolyMesh Edit
+[2023.08.15-13.25.41:499][816]LogEditorViewport: Clicking Background
+[2023.08.15-13.25.45:260][  3]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_1EFB3939...
+[2023.08.15-13.25.45:271][  3]LogStaticMesh: Built static mesh [0.01s] /Game/_GENERATED/Zlata/CubeGridToolOutput_1EFB3939.CubeGridToolOutput_1EFB3939
+[2023.08.15-13.25.47:398][ 84]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 63% occupied, 179 triangles, CubeGridToolOutput_1EFB3939
+[2023.08.15-13.26.16:458][660]Cmd: TRANSACTION UNDO
+[2023.08.15-13.26.16:459][660]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.27.24:415][259]Cmd: TRANSACTION UNDO
+[2023.08.15-13.27.24:415][259]LogEditorTransaction: Undo Cube Grid Selection Change
+[2023.08.15-13.31.15:629][405]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_B1A2C591...
+[2023.08.15-13.31.15:629][405]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/Zlata/CubeGridToolOutput_B1A2C591.CubeGridToolOutput_B1A2C591
+[2023.08.15-13.31.15:632][405]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/Zlata/CubeGridToolOutput_B1A2C591.CubeGridToolOutput_B1A2C591 as actor: StaticMeshActor /Game/MainMap.MainMap:PersistentLevel.StaticMeshActor_2
+[2023.08.15-13.31.15:633][405]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/Zlata/CubeGridToolOutput_B1A2C591.CubeGridToolOutput_B1A2C591
+[2023.08.15-13.31.17:632][427]LogMeshUtilities: Finished distance field build in 1.1s - 126x126x42 sparse distance field, 1.0Mb total, 0.0Mb always loaded, 89% occupied, 14 triangles, CubeGridToolOutput_B1A2C591
+[2023.08.15-13.31.26:444][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.15-13.31.26:506][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.15-13.31.26:515][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.08.15-13.31.26:523][836]LogSavePackage: Moving output files for package: /Game/MainMap
+[2023.08.15-13.31.26:523][836]LogSavePackage: Moving '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Saved/MainMapA4FA74844E30A8BCE8BF82BFDAA7FEDC.tmp' to '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/MainMap.umap'
+[2023.08.15-13.31.26:537][836]LogFileHelpers: Saving map 'MainMap' took 0.032
+[2023.08.15-13.31.26:565][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 5.08 sec)
+[2023.08.15-13.31.26:569][836]AssetCheck: New page: Asset Save: MainMap
+[2023.08.15-13.31.26:569][836]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainMap.MainMap
+[2023.08.15-13.31.28:181][910]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.15-13.31.28:273][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.15-13.31.28:281][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.08.15-13.31.28:288][910]LogSavePackage: Moving output files for package: /Game/MainMap
+[2023.08.15-13.31.28:288][910]LogSavePackage: Moving '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Saved/MainMapBF3F106143866123A775A8BA6C6D26B2.tmp' to '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/MainMap.umap'
+[2023.08.15-13.31.28:304][910]LogFileHelpers: Saving map 'MainMap' took 0.031
+[2023.08.15-13.31.28:310][910]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 5.21 sec)
+[2023.08.15-13.31.28:314][910]AssetCheck: New page: Asset Save: MainMap
+[2023.08.15-13.31.28:314][910]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainMap.MainMap
+[2023.08.15-13.31.31:188][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.08.15-13.31.31:191][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.15-13.31.31:308][ 29]LogSavePackage: Moving output files for package: /Game/_GENERATED/Zlata/CubeGridToolOutput_1EFB3939
+[2023.08.15-13.31.31:309][ 29]LogSavePackage: Moving '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Saved/CubeGridToolOutput_1EFB39391A67E7A3485322FF9F532B9315975E20.tmp' to '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/_GENERATED/Zlata/CubeGridToolOutput_1EFB3939.uasset'
+[2023.08.15-13.31.31:359][ 29]LogSavePackage: Moving output files for package: /Game/_GENERATED/Zlata/CubeGridToolOutput_B1A2C591
+[2023.08.15-13.31.31:359][ 29]LogSavePackage: Moving '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Saved/CubeGridToolOutput_B1A2C59189C6EC9649F40977993B6C91F7DC155F.tmp' to '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/_GENERATED/Zlata/CubeGridToolOutput_B1A2C591.uasset'
+[2023.08.15-13.31.31:374][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 5.39 sec)
+[2023.08.15-13.31.31:378][ 29]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.15-13.31.31:378][ 29]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_GENERATED/Zlata/CubeGridToolOutput_1EFB3939.CubeGridToolOutput_1EFB3939
+[2023.08.15-13.31.31:378][ 29]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_GENERATED/Zlata/CubeGridToolOutput_B1A2C591.CubeGridToolOutput_B1A2C591
+[2023.08.15-13.31.33:588][116]LogViewport: Scene viewport resized to 1137x530, mode Windowed.
+[2023.08.15-13.31.38:710][308]Cmd: EDIT COPY
+[2023.08.15-13.31.40:092][360]LogEditorViewport: Clicking Background
+[2023.08.15-13.31.42:200][437]Cmd: EDIT PASTE
+[2023.08.15-13.31.46:396][580]LogShaderCompilers: Display: ================================================
+[2023.08.15-13.31.46:396][580]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.15-13.31.46:396][580]LogShaderCompilers: Display: Total job queries 202, among them cache hits 48 (23.76%)
+[2023.08.15-13.31.46:396][580]LogShaderCompilers: Display: Tracking 152 distinct input hashes that result in 126 distinct outputs (82.89%)
+[2023.08.15-13.31.46:396][580]LogShaderCompilers: Display: RAM used: 1.23 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.15%
+[2023.08.15-13.31.46:396][580]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.15-13.31.46:396][580]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.08.15-13.31.46:396][580]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100.00%)
+[2023.08.15-13.31.46:396][580]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.03 s
+[2023.08.15-13.31.46:396][580]LogShaderCompilers: Display: Job execution time: average 1.85 s, max 3.06 s
+[2023.08.15-13.31.46:396][580]LogShaderCompilers: Display: Job life time (pending + execution): average 1.88 s, max 3.09
+[2023.08.15-13.31.46:396][580]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.10 s
+[2023.08.15-13.31.46:396][580]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.15-13.31.46:396][580]LogShaderCompilers: Display: Average processing rate: 0.65 jobs/sec
+[2023.08.15-13.31.46:396][580]LogShaderCompilers: Display: Total thread time: 3.21 s
+[2023.08.15-13.31.46:396][580]LogShaderCompilers: Display: Total thread preprocess time: 0.04 s
+[2023.08.15-13.31.46:396][580]LogShaderCompilers: Display: Percentage time preprocessing: 1.26%
+[2023.08.15-13.31.46:396][580]LogShaderCompilers: Display: Effective parallelization: 1.04 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.15-13.31.46:396][580]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.08.15-13.31.46:396][580]LogShaderCompilers: Display:                                               FNiagaraShader (compiled    2 times, average 1.61 sec, max 2.84 sec, min 0.37 sec)
+[2023.08.15-13.31.46:396][580]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.08.15-13.31.46:396][580]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled    2 times, average 1.61 sec, max 2.84 sec, min 0.37 sec)
+[2023.08.15-13.31.46:396][580]LogShaderCompilers: Display: ================================================
+[2023.08.15-13.32.15:565][574]LogEditorViewport: Clicking Background
+[2023.08.15-13.32.17:814][657]Cmd: DELETE
+[2023.08.15-13.32.17:815][657]Cmd: ACTOR DELETE
+[2023.08.15-13.32.17:819][657]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.08.15-13.32.17:848][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.08.15-13.32.17:853][657]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2023.08.15-13.34.21:624][183]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.15-13.34.21:738][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.15-13.34.21:752][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.08.15-13.34.21:761][183]LogSavePackage: Moving output files for package: /Game/MainMap
+[2023.08.15-13.34.21:761][183]LogSavePackage: Moving '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Saved/MainMap84F7175C46E5ADE53E604F9E47441CE9.tmp' to '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/MainMap.umap'
+[2023.08.15-13.34.21:776][183]LogFileHelpers: Saving map 'MainMap' took 0.039
+[2023.08.15-13.34.21:807][183]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 5.57 sec)
+[2023.08.15-13.34.21:812][183]AssetCheck: New page: Asset Save: MainMap
+[2023.08.15-13.34.21:812][183]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainMap.MainMap
+[2023.08.15-13.34.23:848][255]LogViewport: Scene viewport resized to 796x530, mode Windowed.
+[2023.08.15-13.34.25:600][330]LogEditorViewport: Clicking Background
+[2023.08.15-13.36.57:194][364]Cmd: TRANSACTION UNDO
+[2023.08.15-13.36.57:194][364]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.36.57:520][369]Cmd: TRANSACTION UNDO
+[2023.08.15-13.36.57:520][369]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.36.57:766][376]Cmd: TRANSACTION UNDO
+[2023.08.15-13.36.57:766][376]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.36.58:037][389]Cmd: TRANSACTION UNDO
+[2023.08.15-13.36.58:037][389]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.36.58:302][401]Cmd: TRANSACTION UNDO
+[2023.08.15-13.36.58:302][401]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.36.58:544][412]Cmd: TRANSACTION UNDO
+[2023.08.15-13.36.58:544][412]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.36.58:850][426]Cmd: TRANSACTION UNDO
+[2023.08.15-13.36.58:850][426]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.36.59:234][444]Cmd: TRANSACTION UNDO
+[2023.08.15-13.36.59:234][444]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.36.59:580][460]Cmd: TRANSACTION UNDO
+[2023.08.15-13.36.59:580][460]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.38.13:294][261]Cmd: TRANSACTION UNDO
+[2023.08.15-13.38.13:294][261]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.38.13:674][266]Cmd: TRANSACTION UNDO
+[2023.08.15-13.38.13:674][266]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.38.13:891][269]Cmd: TRANSACTION UNDO
+[2023.08.15-13.38.13:891][269]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.38.14:122][281]Cmd: TRANSACTION UNDO
+[2023.08.15-13.38.14:122][281]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.38.14:378][293]Cmd: TRANSACTION UNDO
+[2023.08.15-13.38.14:378][293]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.38.14:601][303]Cmd: TRANSACTION UNDO
+[2023.08.15-13.38.14:601][303]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.38.14:907][317]Cmd: TRANSACTION UNDO
+[2023.08.15-13.38.14:907][317]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.38.15:542][345]Cmd: TRANSACTION UNDO
+[2023.08.15-13.38.15:543][345]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.38.15:951][362]Cmd: TRANSACTION UNDO
+[2023.08.15-13.38.15:951][362]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.38.16:321][378]Cmd: TRANSACTION UNDO
+[2023.08.15-13.38.16:321][378]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.38.16:776][397]Cmd: TRANSACTION UNDO
+[2023.08.15-13.38.16:776][397]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.38.17:136][414]Cmd: TRANSACTION UNDO
+[2023.08.15-13.38.17:136][414]LogEditorTransaction: Undo Block Tool Change
+[2023.08.15-13.38.52:927][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.15-13.38.53:015][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.15-13.38.53:024][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.08.15-13.38.53:032][342]LogSavePackage: Moving output files for package: /Game/MainMap
+[2023.08.15-13.38.53:032][342]LogSavePackage: Moving '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Saved/MainMapC037EDCC4DB1F8A6BC83C68132CA1E85.tmp' to '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/MainMap.umap'
+[2023.08.15-13.38.53:052][342]LogFileHelpers: Saving map 'MainMap' took 0.037
+[2023.08.15-13.38.53:058][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 5.70 sec)
+[2023.08.15-13.38.53:062][342]AssetCheck: New page: Asset Save: MainMap
+[2023.08.15-13.38.53:062][342]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainMap.MainMap
+[2023.08.15-13.40.02:187][907]LogContentBrowser: Attempting asset rename: NewNiagaraSystem -> Lite2
+[2023.08.15-13.40.02:236][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.15-13.40.02:298][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NiagaraElements/Lite2" FILE="../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/NiagaraElements/Lite2.uasset" SILENT=true
+[2023.08.15-13.40.02:455][907]LogSavePackage: Moving output files for package: /Game/NiagaraElements/Lite2
+[2023.08.15-13.40.02:455][907]LogSavePackage: Moving '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Saved/Lite200445F0B45FF6C95EC3642A409E5ADBE.tmp' to '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/NiagaraElements/Lite2.uasset'
+[2023.08.15-13.40.02:456][907]LogSavePackage: Moving output files for package: /Game/NiagaraElements/NewNiagaraSystem
+[2023.08.15-13.40.02:457][907]LogSavePackage: Moving '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Saved/NewNiagaraSystem781B0BEC4437E43DC4D200B43F49C088.tmp' to '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/NiagaraElements/NewNiagaraSystem.uasset'
+[2023.08.15-13.40.02:465][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 229 ms (total: 5.93 sec)
+[2023.08.15-13.40.02:472][907]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.15-13.40.02:472][907]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/NiagaraElements/Lite2.Lite2
+[2023.08.15-13.40.02:472][907]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/NiagaraElements/NewNiagaraSystem.NewNiagaraSystem
+[2023.08.15-13.40.06:234][ 66]LogViewport: Scene viewport resized to 1137x530, mode Windowed.
+[2023.08.15-13.40.07:372][107]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.08.15-13.40.17:946][479]LogContentBrowser: Attempting asset rename: Lite2 -> Light2
+[2023.08.15-13.40.17:982][479]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.15-13.40.18:048][479]LogSavePackage: Moving output files for package: /Game/NiagaraElements/NewNiagaraSystem
+[2023.08.15-13.40.18:049][479]LogSavePackage: Moving '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Saved/NewNiagaraSystemBBC378AA4D36E540597F07BE71CAA4F2.tmp' to '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/NiagaraElements/NewNiagaraSystem.uasset'
+[2023.08.15-13.40.18:050][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NiagaraElements/Light2" FILE="../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/NiagaraElements/Light2.uasset" SILENT=true
+[2023.08.15-13.40.18:208][479]LogSavePackage: Moving output files for package: /Game/NiagaraElements/Light2
+[2023.08.15-13.40.18:208][479]LogSavePackage: Moving '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Saved/Light2907C132D481917F077CB0EAB0ABEE4C9.tmp' to '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/NiagaraElements/Light2.uasset'
+[2023.08.15-13.40.18:217][479]LogFileHelpers: InternalPromptForCheckoutAndSave took 234 ms (total: 6.17 sec)
+[2023.08.15-13.40.18:229][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.08.15-13.40.18:239][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.08.15-13.40.18:247][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.08.15-13.40.18:254][479]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.15-13.40.18:254][479]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/NiagaraElements/Light2.Light2
+[2023.08.15-13.40.18:254][479]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/NiagaraElements/NewNiagaraSystem.NewNiagaraSystem
+[2023.08.15-13.40.24:937][717]LogContentBrowser: Attempting asset rename: Fountain -> Light1
+[2023.08.15-13.40.24:986][717]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.15-13.40.25:065][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NiagaraElements/Light1" FILE="../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/NiagaraElements/Light1.uasset" SILENT=true
+[2023.08.15-13.40.25:156][717]LogSavePackage: Moving output files for package: /Game/NiagaraElements/Light1
+[2023.08.15-13.40.25:156][717]LogSavePackage: Moving '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Saved/Light1EB24BA444546D2104BFB71AE1846BE93.tmp' to '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/NiagaraElements/Light1.uasset'
+[2023.08.15-13.40.25:157][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NiagaraElements/Fountain" FILE="../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/NiagaraElements/Fountain.uasset" SILENT=true
+[2023.08.15-13.40.25:158][717]LogSavePackage: Moving output files for package: /Game/NiagaraElements/Fountain
+[2023.08.15-13.40.25:158][717]LogSavePackage: Moving '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Saved/Fountain79BC99B34D863A4CC0697D84193F1710.tmp' to '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/NiagaraElements/Fountain.uasset'
+[2023.08.15-13.40.25:168][717]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 6.35 sec)
+[2023.08.15-13.40.25:172][717]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.15-13.40.25:172][717]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/NiagaraElements/Fountain.Fountain
+[2023.08.15-13.40.25:172][717]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/NiagaraElements/Light1.Light1
+[2023.08.15-13.41.09:641][820]LogSlate: Took 0.009088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.08.15-13.41.55:615][820]LogSlate: Window 'Pick a starting point for your system' being destroyed
+[2023.08.15-13.41.55:752][820]LogContentBrowser: Deferred new asset file creation: NewNiagaraSystem1
+[2023.08.15-13.41.55:758][820]LogContentBrowser: Creating deferred item: NewNiagaraSystem1
+[2023.08.15-13.41.55:768][821]LogContentBrowser: Renaming the item being created (Deferred Item: NewNiagaraSystem1).
+[2023.08.15-13.42.08:561][288]LogContentBrowser: Attempting asset rename: NewNiagaraSystem1 -> Bloom
+[2023.08.15-13.42.08:637][288]LogContentBrowser: End creating deferred item NewNiagaraSystem1
+[2023.08.15-13.42.10:503][343]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/NiagaraElements/Bloom.Bloom
+[2023.08.15-13.42.10:503][343]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/NiagaraElements/Bloom.Bloom
+[2023.08.15-13.42.10:504][343]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/NiagaraElements/Bloom.Bloom as actor: NiagaraActor /Game/MainMap.MainMap:PersistentLevel.NiagaraActor_0
+[2023.08.15-13.42.10:504][343]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/NiagaraElements/Bloom.Bloom as actor: NiagaraActor /Game/MainMap.MainMap:PersistentLevel.NiagaraActor_0
+[2023.08.15-13.42.11:570][379]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/NiagaraElements/Bloom.Bloom
+[2023.08.15-13.42.11:570][379]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/NiagaraElements/Bloom.Bloom
+[2023.08.15-13.42.11:572][379]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/NiagaraElements/Bloom.Bloom as actor: NiagaraActor /Game/MainMap.MainMap:PersistentLevel.NiagaraActor_3
+[2023.08.15-13.42.11:572][379]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/NiagaraElements/Bloom.Bloom as actor: NiagaraActor /Game/MainMap.MainMap:PersistentLevel.NiagaraActor_3
+[2023.08.15-13.42.12:007][393]LogShaderCompilers: Display: ================================================
+[2023.08.15-13.42.12:007][393]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.15-13.42.12:007][393]LogShaderCompilers: Display: Total job queries 218, among them cache hits 56 (25.69%)
+[2023.08.15-13.42.12:007][393]LogShaderCompilers: Display: Tracking 157 distinct input hashes that result in 131 distinct outputs (83.44%)
+[2023.08.15-13.42.12:007][393]LogShaderCompilers: Display: RAM used: 1.26 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.15%
+[2023.08.15-13.42.12:007][393]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.15-13.42.12:007][393]LogShaderCompilers: Display: Shaders Compiled: 3
+[2023.08.15-13.42.12:007][393]LogShaderCompilers: Display: Jobs assigned 6, completed 3 (50.00%)
+[2023.08.15-13.42.12:007][393]LogShaderCompilers: Display: Average time worker was idle: 1872.10 s
+[2023.08.15-13.42.12:007][393]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.03 s
+[2023.08.15-13.42.12:007][393]LogShaderCompilers: Display: Job execution time: average 2.30 s, max 3.22 s
+[2023.08.15-13.42.12:007][393]LogShaderCompilers: Display: Job life time (pending + execution): average 2.33 s, max 3.24
+[2023.08.15-13.42.12:007][393]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.34 s
+[2023.08.15-13.42.12:007][393]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.15-13.42.12:007][393]LogShaderCompilers: Display: Average processing rate: 0.47 jobs/sec
+[2023.08.15-13.42.12:007][393]LogShaderCompilers: Display: Total thread time: 3.42 s
+[2023.08.15-13.42.12:007][393]LogShaderCompilers: Display: Total thread preprocess time: 0.04 s
+[2023.08.15-13.42.12:007][393]LogShaderCompilers: Display: Percentage time preprocessing: 1.18%
+[2023.08.15-13.42.12:007][393]LogShaderCompilers: Display: Effective parallelization: 0.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.15-13.42.12:007][393]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.08.15-13.42.12:007][393]LogShaderCompilers: Display:                                               FNiagaraShader (compiled    3 times, average 1.14 sec, max 2.84 sec, min 0.21 sec)
+[2023.08.15-13.42.12:007][393]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.08.15-13.42.12:007][393]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled    3 times, average 1.14 sec, max 2.84 sec, min 0.21 sec)
+[2023.08.15-13.42.12:007][393]LogShaderCompilers: Display: ================================================
+[2023.08.15-13.42.12:361][397]LogNiagara: Compiling System NiagaraSystem /Game/NiagaraElements/Bloom.Bloom took 3.764565 sec (time since issued), 14.463748 sec (combined shader worker time).
+[2023.08.15-13.42.12:543][399]LogNiagara: Warning: For some reason we are reporting that /Game/NiagaraElements/Bloom.Bloom:StaticBeam.SpawnScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2023.08.15-13.42.12:543][399]LogNiagara: Warning: For some reason we are reporting that /Game/NiagaraElements/Bloom.Bloom:StaticBeam.UpdateScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2023.08.15-13.42.12:543][399]LogNiagara: Warning: For some reason we are reporting that /Game/NiagaraElements/Bloom.Bloom:SystemSpawnScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2023.08.15-13.42.12:544][399]LogNiagara: Warning: For some reason we are reporting that /Game/NiagaraElements/Bloom.Bloom:SystemUpdateScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2023.08.15-13.42.12:545][399]LogNiagara: Compiling System NiagaraSystem /Game/NiagaraElements/Bloom.Bloom took 3.915173 sec, no shader worker used.
+[2023.08.15-13.42.41:992][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.08.15-13.42.44:793][385]LogSlate: Window 'Delete Assets' being destroyed
+[2023.08.15-13.42.44:830][385]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/NiagaraElements/Bloom.Bloom
+	Asset Type: NiagaraSystem
+[2023.08.15-13.42.45:040][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.08.15-13.42.45:048][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.08.15-13.42.45:056][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.08.15-13.42.48:850][519]Cmd: DELETE
+[2023.08.15-13.42.48:850][519]Cmd: ACTOR DELETE
+[2023.08.15-13.42.48:853][519]LogEditorActor: Deleted Actor: NiagaraActor
+[2023.08.15-13.42.48:866][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.08.15-13.42.48:872][519]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2023.08.15-13.42.51:639][620]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.15-13.42.51:756][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.15-13.42.51:764][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.08.15-13.42.51:771][620]LogSavePackage: Moving output files for package: /Game/MainMap
+[2023.08.15-13.42.51:771][620]LogSavePackage: Moving '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Saved/MainMapB573FFBC4DA3A666708EC48CA682AB2A.tmp' to '../../../../../Zlata/ProjectsUnrealEngine5/UnrealEngine5_GuidedTour/GuidedTour/Content/MainMap.umap'
+[2023.08.15-13.42.51:789][620]LogFileHelpers: Saving map 'MainMap' took 0.033
+[2023.08.15-13.42.51:796][620]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 6.51 sec)
+[2023.08.15-13.42.51:800][620]AssetCheck: New page: Asset Save: MainMap
+[2023.08.15-13.42.51:800][620]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainMap.MainMap
